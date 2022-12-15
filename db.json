@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "text": "meeting at work",
+      "day": "feb 6th at 3:30pm",
+      "reminder": true
+    },
+    {
+      "text": "coaching ",
+      "day": "saturday",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "attend Wod ",
+      "day": "to day ",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
